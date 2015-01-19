@@ -91,6 +91,15 @@ a {
   display: none;
 }
 
+.skills-flex-box {
+  justify-content: flex-start;
+  padding-left: 0;
+}
+
+.online-heading {
+  padding-left: 0;
+}
+
 .orange {
   background-color: #F5AE23;
 }
