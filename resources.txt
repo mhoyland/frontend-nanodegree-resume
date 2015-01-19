@@ -6,3 +6,4 @@ http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html
 https://developers.google.com/maps/documentation/javascript/reference#Marker
 http://www.w3schools.com/
 https://piazza.com
+http://jsonlint.com/
